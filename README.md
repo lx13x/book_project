@@ -23,8 +23,9 @@
 - **Дедупликация:** Алгоритмы сравнения ISBN и текста
 
 ## Скриншоты
-https://github.com/lx13x/book_project/blob/main/main.png
+[main.png](https://github.com/lx13x/book_project/blob/main/main.png)
 [filter.png](https://github.com/lx13x/book_project/blob/main/filter.png)
+[order.png](https://github.com/lx13x/book_project/blob/main/order.png)
 
 ## 🚀 Быстрый старт
 
