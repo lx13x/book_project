@@ -36,5 +36,8 @@ python 1_create_database.py
 # 3. Проверить данные
 python 2_check_data.py
 
+##Доступ к приложению
+Откройте в браузере: http://localhost:8000
+
 # 4. Запустить веб-сайт
 python 3_website.py
