@@ -35,7 +35,7 @@
 git clone https://github.com/ваш-username/book-database-project.git
 cd book-database-project
 
-# 2. Создать базу данных (CSV файлы уже должны быть в папке)
+# 2. Создать базу данных (CSV файлы уже в папке)
 python 1_create_database.py
 
 # 3. Проверить данные
