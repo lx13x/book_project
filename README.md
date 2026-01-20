@@ -37,4 +37,4 @@ python 1_create_database.py
 python 2_check_data.py
 
 # 4. Запустить веб-сайт
-python 3_website_final.py
+python 3_website.py
